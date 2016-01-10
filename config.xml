@@ -81,7 +81,7 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-	 <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.8.0">
+	 <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
         <param name="APP_ID" value="1615832895351815" />
         <param name="APP_NAME" value="MyApp4" />
     </gap:plugin>
